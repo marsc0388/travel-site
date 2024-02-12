@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.16",
-    "browser-sync": "^2.27.10",
+    "browser-sync": "^3.0.2",
     "gulp-hub": "^4.2.0",
     "postcss-import": "^15.1.0",
     "postcss-nested": "^6.0.1",
